@@ -2,7 +2,7 @@
 
 A complete MERN stack starter project for booking home and professional services online.
 
-* service provided: sandhwhich massage, spa service
+
 
 ## Features
 
